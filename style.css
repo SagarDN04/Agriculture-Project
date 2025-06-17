@@ -1,0 +1,3392 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  width: 1920px;
+  height: 7766.13px;
+  position: relative;
+}
+
+.home .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 1176px;
+  top: 4px;
+  left: 0;
+}
+
+.home .elements {
+  position: absolute;
+  width: 1920px;
+  height: 810px;
+  top: 174px;
+  left: 0;
+}
+
+.home .span-wrapper {
+  position: absolute;
+  width: 318px;
+  height: 30px;
+  top: 354px;
+  left: 375px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper {
+  font-weight: 600;
+}
+
+.home .empowering-farmers {
+  position: absolute;
+  width: 872px;
+  height: 220px;
+  top: 402px;
+  left: 375px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #fffbde;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .span {
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #fffbde;
+  font-size: 96px;
+  letter-spacing: 0;
+}
+
+.home .text-wrapper-2 {
+  font-size: 64px;
+}
+
+.home .leaf-webp {
+  position: absolute;
+  width: 92px;
+  height: 75px;
+  top: 504px;
+  left: 916px;
+  background-image: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/leaf-01-webp.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.home .div-wrapper {
+  position: absolute;
+  width: 196px;
+  height: 58px;
+  top: 746px;
+  left: 375px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .text-wrapper-3 {
+  position: absolute;
+  width: 97px;
+  height: 30px;
+  top: 13px;
+  left: 50px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .elements-2 {
+  position: absolute;
+  width: 115px;
+  height: 53px;
+  top: 746px;
+  left: 591px;
+  background-image: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/elements-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.home .icon-wrapper {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 508px;
+  left: 1479px;
+  border-radius: 33px;
+  border: 2px solid;
+  border-color: #ffffff;
+  opacity: 0.3;
+}
+
+.home .icon {
+  position: absolute;
+  width: 88px;
+  height: 1px;
+  top: 63px;
+  left: 2px;
+}
+
+.home .img-wrapper {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 584px;
+  left: 1479px;
+  border-radius: 33px;
+  border: 2px solid;
+  border-color: #ffffff;
+}
+
+.home .section {
+  position: absolute;
+  width: 1200px;
+  height: 251px;
+  top: 924px;
+  left: 360px;
+}
+
+.home .div-elementor-column {
+  position: absolute;
+  width: 400px;
+  height: 251px;
+  top: 0;
+  left: 0;
+}
+
+.home .wrap {
+  position: relative;
+  width: 370px;
+  height: 320px;
+  left: 15px;
+  overflow: hidden;
+  box-shadow: 0px 0px 60px 10px #0000001a;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.home .container {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 190px;
+  left: 140px;
+  border-radius: 10px;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/container.png) 50%
+    50% / cover,
+    linear-gradient(0deg, rgba(75, 175, 71, 1) 0%, rgba(75, 175, 71, 1) 100%);
+}
+
+.home .img {
+  position: absolute;
+  width: 85px;
+  height: 1px;
+  top: 73px;
+  left: 15px;
+}
+
+.home .text-wrapper-4 {
+  width: 88px;
+  left: 141px;
+  position: absolute;
+  height: 24px;
+  top: 47px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .heading {
+  position: absolute;
+  width: 188px;
+  height: 60px;
+  top: 101px;
+  left: 91px;
+}
+
+.home .we-re-using-a-new {
+  position: absolute;
+  width: 188px;
+  height: 60px;
+  top: -2px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home .column {
+  position: absolute;
+  width: 400px;
+  height: 251px;
+  top: 0;
+  left: 400px;
+}
+
+.home .container-2 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 190px;
+  left: 140px;
+  border-radius: 10px;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/container-1.png) 50%
+    50% / cover,
+    linear-gradient(0deg, rgba(75, 175, 71, 1) 0%, rgba(75, 175, 71, 1) 100%);
+}
+
+.home .text-wrapper-5 {
+  width: 96px;
+  left: 137px;
+  position: absolute;
+  height: 24px;
+  top: 47px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .good-in-smart-wrapper {
+  position: absolute;
+  width: 194px;
+  height: 60px;
+  top: 101px;
+  left: 88px;
+}
+
+.home .good-in-smart {
+  position: absolute;
+  width: 194px;
+  height: 60px;
+  top: -2px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home .wrap-wrapper {
+  position: absolute;
+  width: 400px;
+  height: 251px;
+  top: 0;
+  left: 800px;
+}
+
+.home .container-3 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  top: 190px;
+  left: 140px;
+  border-radius: 10px;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/container-2.png) 50%
+    50% / cover,
+    linear-gradient(0deg, rgba(75, 175, 71, 1) 0%, rgba(75, 175, 71, 1) 100%);
+}
+
+.home .text-wrapper-6 {
+  width: 94px;
+  left: 138px;
+  position: absolute;
+  height: 24px;
+  top: 47px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.home .reforming-in-the-wrapper {
+  position: absolute;
+  width: 171px;
+  height: 60px;
+  top: 101px;
+  left: 99px;
+}
+
+.home .reforming-in-the {
+  position: absolute;
+  width: 171px;
+  height: 60px;
+  top: -2px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home .section-2 {
+  background-color: #f8f7f1;
+  position: relative;
+  width: 1920px;
+  left: auto;
+  height: 79px;
+  top: 160px;
+ padding: 0%;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/section.png) 100%
+    100%;
+}
+
+.home .group {
+  position: absolute;
+  width: 1378px;
+  height: 117px;
+  top: 0;
+  left: 271px;
+}
+
+.home .header {
+  position: absolute;
+  width: 195px;
+  height: 70px;
+  top: 23px;
+  left: 310px;
+}
+
+.home .link-icon {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 15px;
+  left: 5px;
+  background-color: #f8f7f0;
+  border-radius: 20px;
+}
+
+.home .icon-2 {
+  filter: brightness(0%) invert(0%);
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 13px;
+  left: 13px;
+}
+
+.home .link-icon-2 {
+  top: 15px;
+  left: 55px;
+  background-color: #f8f7f0;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .link-icon-3 {
+  top: 15px;
+  left: 105px;
+  background-color: #f8f7f0;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .icon-3 {
+  filter: brightness(0%) invert(0%);
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 13px;
+  left: 15px;
+}
+
+.home .link-icon-4 {
+  top: 15px;
+  left: 155px;
+  background-color: #f8f7f0;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .overlap-group {
+  position: absolute;
+  width: 517px;
+  height: 70px;
+  top: 23px;
+  left: 505px;
+}
+
+.home .header-2 {
+  position: absolute;
+  width: 217px;
+  height: 70px;
+  top: 0;
+  left: 0;
+}
+
+.home .icon-4 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 19px;
+  left: 30px;
+}
+
+.home .heading-call {
+  position: absolute;
+  width: 72px;
+  height: 20px;
+  top: 14px;
+  left: 80px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #878680;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-7 {
+  width: 118px;
+  height: 20px;
+  top: 34px;
+  left: 80px;
+  font-weight: 700;
+  color: #1f1e17;
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .header-3 {
+  position: absolute;
+  width: 300px;
+  height: 70px;
+  top: 0;
+  left: 217px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #e4e2d7;
+}
+
+.home .icon-5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 19px;
+  left: 31px;
+}
+
+.home .heading-send-email {
+  position: absolute;
+  width: 63px;
+  height: 20px;
+  top: 14px;
+  left: 81px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #878680;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .contact {
+  position: absolute;
+  width: 208px;
+  height: 20px;
+  top: 34px;
+  left: 81px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #1f1e17;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .header-4 {
+  position: absolute;
+  width: 356px;
+  height: 74px;
+  top: 21px;
+  left: 1022px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #e4e2d7;
+}
+
+.home .icon-6 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  top: 11px;
+  left: 21px;
+}
+
+.home .heading-st {
+  position: absolute;
+  width: 241px;
+  height: 20px;
+  top: 14px;
+  left: 75px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #878680;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .p {
+  position: absolute;
+  width: 260px;
+  height: 20px;
+  top: 34px;
+  left: 75px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #1f1e17;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .gg {
+  position: absolute;
+  width: 159px;
+  height: 117px;
+  top: 0;
+  left: 0;
+}
+
+.home .sections {
+  position: absolute;
+  width: 300px;
+  height: 97px;
+  top: 1963px;
+  left: 1712px;
+}
+
+.home .group-2 {
+  position: absolute;
+  width: 1191px;
+  height: 646px;
+  top: 1300px;
+  left: 360px;
+}
+
+.home .overlap-group-wrapper {
+  position: absolute;
+  width: 600px;
+  height: 641px;
+  top: 0;
+  left: 0;
+}
+
+.home .overlap-group-2 {
+  position: relative;
+  width: 630px;
+  height: 656px;
+  left: -65px;
+}
+
+.home .div-elementor-widget-wrapper {
+  position: absolute;
+  width: 550px;
+  height: 549px;
+  top: 0;
+  left: 80px;
+}
+
+.home .div-elementor-widget {
+  height: 549px;
+  border-radius: 274.76px;
+  background-image: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/image-01-webp.png);
+  background-size: 100% 100%;
+}
+
+.home .image-webp-wrapper {
+  position: absolute;
+  width: 280px;
+  height: 270px;
+  top: 386px;
+  left: 0;
+  border-radius: 137.5px;
+  overflow: hidden;
+  border: 10px solid;
+  border-color: #ffffff;
+}
+
+.home .image-webp {
+  position: absolute;
+  width: 260px;
+  height: 250px;
+  top: 10px;
+  left: 10px;
+}
+
+.home .elements-3 {
+  position: absolute;
+  width: 555px;
+  height: 184px;
+  top: 0;
+  left: 630px;
+}
+
+.home .div-pre-heading {
+  position: absolute;
+  width: 555px;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.home .text-wrapper-8 {
+  width: 142px;
+  top: -1px;
+  left: 0;
+  position: absolute;
+  height: 36px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .agriculture-organic-wrapper {
+  position: absolute;
+  width: 555px;
+  height: 115px;
+  top: 36px;
+  left: 0;
+}
+
+.home .agriculture-organic {
+  position: absolute;
+  width: 507px;
+  height: 115px;
+  top: -1px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+
+.home .heading-agrios-is-wrapper {
+  position: absolute;
+  width: 555px;
+  height: 63px;
+  top: 184px;
+  left: 630px;
+}
+
+.home .heading-agrios-is {
+  position: absolute;
+  width: 515px;
+  height: 30px;
+  top: -1px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #4baf47;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .elements-4 {
+  position: absolute;
+  width: 555px;
+  height: 131px;
+  top: 247px;
+  left: 630px;
+}
+
+.home .text-wrapper-9 {
+  position: absolute;
+  width: 527px;
+  height: 90px;
+  top: -1px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #878680;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home .elements-5 {
+  position: absolute;
+  width: 270px;
+  height: 91px;
+  top: 378px;
+  left: 630px;
+}
+
+.home .icon-7 {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: -3px;
+  left: 0;
+}
+
+.home .heading-growing {
+  position: absolute;
+  width: 141px;
+  height: 56px;
+  top: -2px;
+  left: 84px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.home .elements-6 {
+  position: absolute;
+  width: 270px;
+  height: 91px;
+  top: 378px;
+  left: 900px;
+}
+
+.home .heading-tips-for {
+  position: absolute;
+  width: 160px;
+  height: 56px;
+  top: -2px;
+  left: 84px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.home .icon-8 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 489px;
+  left: 630px;
+}
+
+.home .icon-9 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 519px;
+  left: 630px;
+}
+
+.home .icon-10 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 548px;
+  left: 630px;
+}
+
+.home .overlap-2 {
+  position: absolute;
+  width: 390px;
+  height: 59px;
+  top: 482px;
+  left: 660px;
+}
+
+.home .sourcing-processing {
+  position: absolute;
+  width: 389px;
+  height: 30px;
+  top: 29px;
+  left: 1px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #1f1e17;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-10 {
+  position: absolute;
+  width: 389px;
+  height: 30px;
+  top: 0;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #1f1e17;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-11 {
+  position: absolute;
+  width: 389px;
+  height: 30px;
+  top: 542px;
+  left: 662px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #1f1e17;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .link {
+  position: absolute;
+  width: 196px;
+  height: 60px;
+  top: 586px;
+  left: 630px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .text-wrapper-12 {
+  position: absolute;
+  width: 97px;
+  height: 30px;
+  top: 14px;
+  left: 50px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .overlap-3 {
+  position: absolute;
+  width: 1905px;
+  height: 687px;
+  top: 2061px;
+  left: 8px;
+}
+
+.home .sections-2 {
+  position: absolute;
+  width: 1905px;
+  height: 407px;
+  top: 0;
+  left: 0;
+  background-color: #f8f7f0;
+  overflow: hidden;
+}
+
+.home .image {
+  position: absolute;
+  width: 300px;
+  height: 64px;
+  top: 403px;
+  left: 0;
+}
+
+.home .overlap-4 {
+  position: absolute;
+  width: 340px;
+  height: 93px;
+  top: 112px;
+  left: 783px;
+}
+
+.home .what-we-offer {
+  position: absolute;
+  width: 340px;
+  height: 58px;
+  top: 36px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-13 {
+  width: 107px;
+  top: 0;
+  left: 116px;
+  text-align: center;
+  position: absolute;
+  height: 36px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .section-3 {
+  position: absolute;
+  width: 1200px;
+  height: 430px;
+  top: 257px;
+  left: 352px;
+}
+
+.home .images {
+  position: absolute;
+  width: 300px;
+  height: 430px;
+  top: 0;
+  left: 0;
+}
+
+.home .overlap-5 {
+  position: relative;
+  width: 270px;
+  height: 430px;
+  left: 15px;
+  border-radius: 10px;
+}
+
+.home .images-2 {
+  position: absolute;
+  width: 270px;
+  height: 430px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/images.png) 50% 50%
+    / cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+}
+
+.home .overlap-group-3 {
+  position: relative;
+  height: 394px;
+}
+
+.home .div-2 {
+  position: absolute;
+  width: 270px;
+  height: 320px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+}
+
+.home .div-3 {
+  position: absolute;
+  width: 220px;
+  height: 128px;
+  top: 266px;
+  left: 25px;
+  box-shadow: 0px 10px 30px #00000012;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.home .heading-2 {
+  position: absolute;
+  width: 113px;
+  height: 56px;
+  top: 48px;
+  left: 54px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.home .icon-wrapper-2 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: -35px;
+  left: 75px;
+  background-color: #c5ce38;
+  border-radius: 7px;
+}
+
+.home .icon-11 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 10px;
+  left: 10px;
+}
+
+.home .div-wrapper-2 {
+  position: absolute;
+  width: 109px;
+  height: 96px;
+  top: 334px;
+  left: 136px;
+}
+
+.home .div-wrapper-3 {
+  position: relative;
+  height: 46px;
+  top: -50px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .text-wrapper-14 {
+  position: absolute;
+  width: 62px;
+  height: 36px;
+  top: 4px;
+  left: 24px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .overlap-wrapper {
+  position: absolute;
+  width: 300px;
+  height: 430px;
+  top: 0;
+  left: 300px;
+}
+
+.home .images-3 {
+  position: absolute;
+  width: 270px;
+  height: 430px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/images-1.png) 50%
+    50% / cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+}
+
+.home .text-wrapper-15 {
+  position: absolute;
+  width: 90px;
+  height: 56px;
+  top: 48px;
+  left: 65px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.home .section-4 {
+  position: absolute;
+  width: 300px;
+  height: 430px;
+  top: 0;
+  left: 600px;
+}
+
+.home .box {
+  position: absolute;
+  width: 270px;
+  height: 430px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/box.png) 50% 50% /
+    cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+}
+
+.home .heading-fresh {
+  position: absolute;
+  width: 111px;
+  height: 56px;
+  top: 48px;
+  left: 55px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.home .section-5 {
+  position: absolute;
+  width: 300px;
+  height: 430px;
+  top: 0;
+  left: 900px;
+}
+
+.home .re {
+  position: absolute;
+  width: 270px;
+  height: 430px;
+  top: 0;
+  left: 0;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/re.png) 50% 50% /
+    cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .overlap-6 {
+  position: absolute;
+  width: 1905px;
+  height: 745px;
+  top: 2831px;
+  left: 8px;
+}
+
+.home .section-wrapper {
+  position: absolute;
+  width: 1905px;
+  height: 691px;
+  top: 54px;
+  left: 0;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/sections.png) 50%
+    50% / cover;
+}
+
+.home .section-6 {
+  position: relative;
+  width: 1200px;
+  height: 336px;
+  top: 235px;
+  left: 352px;
+}
+
+.home .heading-wrapper {
+  position: absolute;
+  width: 600px;
+  height: 336px;
+  top: 0;
+  left: 0;
+}
+
+.home .heading-3 {
+  position: absolute;
+  width: 487px;
+  height: 336px;
+  top: -1px;
+  left: 15px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: 84px;
+}
+
+.home .link-video-wrapper {
+  position: absolute;
+  width: 600px;
+  height: 336px;
+  top: 0;
+  left: 600px;
+}
+
+.home .link-video {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  top: 93px;
+  left: 435px;
+  background-color: #ffffff;
+  border-radius: 50px;
+}
+
+.home .overlap-group-4 {
+  position: relative;
+  height: 100px;
+  background-color: #ffffff;
+  border-radius: 50px;
+}
+
+.home .span-hd-be {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 50px;
+}
+
+.home .icon-12 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 35px;
+  left: 38px;
+}
+
+.home .article-section {
+  position: absolute;
+  width: 1170px;
+  height: 184px;
+  top: 0;
+  left: 367px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .section-7 {
+  position: absolute;
+  width: 300px;
+  height: 65px;
+  top: 179px;
+  left: 0;
+}
+
+.home .section-8 {
+  position: absolute;
+  width: 1200px;
+  height: 37px;
+  top: 70px;
+  left: -15px;
+}
+
+.home .div-inner-wrapper {
+  position: absolute;
+  width: 300px;
+  height: 37px;
+  top: 0;
+  left: 0;
+}
+
+.home .div-wrapper-4 {
+  position: relative;
+  width: 270px;
+  height: 37px;
+  left: 15px;
+}
+
+.home .text-wrapper-16 {
+  position: absolute;
+  width: 176px;
+  height: 30px;
+  top: 6px;
+  left: 47px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .section-9 {
+  position: absolute;
+  width: 300px;
+  height: 37px;
+  top: 0;
+  left: 300px;
+}
+
+.home .text-wrapper-17 {
+  position: absolute;
+  width: 169px;
+  height: 30px;
+  top: 6px;
+  left: 51px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .section-10 {
+  position: absolute;
+  width: 300px;
+  height: 37px;
+  top: 0;
+  left: 600px;
+}
+
+.home .text-wrapper-18 {
+  position: absolute;
+  width: 140px;
+  height: 30px;
+  top: 6px;
+  left: 65px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .section-11 {
+  position: absolute;
+  width: 300px;
+  height: 37px;
+  top: 0;
+  left: 900px;
+}
+
+.home .text-wrapper-19 {
+  position: absolute;
+  width: 137px;
+  height: 30px;
+  top: 6px;
+  left: 67px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .overlap-7 {
+  position: absolute;
+  width: 388px;
+  height: 93px;
+  top: 3688px;
+  left: 766px;
+}
+
+.home .sections-3 {
+  position: absolute;
+  width: 388px;
+  height: 58px;
+  top: 36px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.home .sections-4 {
+  position: absolute;
+  width: 175px;
+  height: 36px;
+  top: 0;
+  left: 107px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .sections-5 {
+  position: absolute;
+  width: 1480px;
+  height: 558px;
+  top: 3833px;
+  left: 220px;
+  overflow: hidden;
+}
+
+.home .div-content-wrap-wrapper {
+  position: absolute;
+  width: 362px;
+  height: 558px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/elements-2.png) 50%
+    50% / cover;
+}
+
+.home .div-content-wrap {
+  position: relative;
+  height: 558px;
+  top: 50px;
+}
+
+.home .heading-link-easy {
+  width: 163px;
+  height: 72px;
+  top: 382px;
+  left: 40px;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 36px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.home .elements-7 {
+  position: absolute;
+  width: 362px;
+  height: 558px;
+  top: 0;
+  left: 373px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/elements-3.png) 50%
+    50% / cover;
+}
+
+.home .heading-link {
+  width: 169px;
+  height: 72px;
+  top: 382px;
+  left: 40px;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 36px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.home .elements-8 {
+  position: absolute;
+  width: 362px;
+  height: 558px;
+  top: 0;
+  left: 745px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/elements-4.png) 50%
+    50% / cover;
+}
+
+.home .heading-link-2 {
+  width: 153px;
+  height: 72px;
+  top: 382px;
+  left: 40px;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 36px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.home .elements-9 {
+  position: absolute;
+  width: 362px;
+  height: 558px;
+  top: 0;
+  left: 1118px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/elements-5.png) 50%
+    50% / cover;
+}
+
+.home .heading-link-3 {
+  width: 144px;
+  height: 72px;
+  top: 382px;
+  left: 40px;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 36px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.home .sections-6 {
+  position: absolute;
+  width: 1905px;
+  height: 695px;
+  top: 4511px;
+  left: 8px;
+  background-color: #f8f7f0;
+}
+
+.home .image-2 {
+  position: absolute;
+  width: 300px;
+  height: 93px;
+  top: 602px;
+  left: -100px;
+}
+
+.home .section-12 {
+  position: absolute;
+  width: 1200px;
+  height: 462px;
+  top: 113px;
+  left: 352px;
+}
+
+.home .column-2 {
+  position: absolute;
+  width: 400px;
+  height: 462px;
+  top: -7px;
+  left: 0;
+}
+
+.home .div-elementor {
+  position: absolute;
+  width: 370px;
+  height: 402px;
+  top: -7px;
+  left: 15px;
+}
+
+.home .overlap-group-5 {
+  position: absolute;
+  width: 324px;
+  height: 208px;
+  top: -1px;
+  left: 0;
+}
+
+.home .heading-what-they {
+  position: absolute;
+  width: 324px;
+  height: 173px;
+  top: 36px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+
+.home .text-wrapper-20 {
+  width: 137px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 36px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .there-are-many {
+  position: absolute;
+  width: 329px;
+  height: 120px;
+  top: 238px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #878680;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home .link-wrapper {
+  position: absolute;
+  width: 370px;
+  height: 60px;
+  top: 395px;
+  left: 15px;
+}
+
+.home .link-2 {
+  position: relative;
+  width: 242px;
+  height: 60px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .text-wrapper-21 {
+  position: absolute;
+  width: 142px;
+  height: 30px;
+  top: 14px;
+  left: 50px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .column-3 {
+  position: absolute;
+  width: 800px;
+  height: 455px;
+  top: 0;
+  left: 400px;
+}
+
+.home .div-master-vertical {
+  position: absolute;
+  width: 770px;
+  height: 264px;
+  top: 0;
+  left: 15px;
+}
+
+.home .div-master {
+  position: relative;
+  height: 254px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .div-content-wrap-2 {
+  position: absolute;
+  width: 495px;
+  height: 161px;
+  top: 38px;
+  left: 50px;
+}
+
+.home .there-are-many-2 {
+  width: 486px;
+  height: 108px;
+  top: -1px;
+  color: #878680;
+  font-size: 18px;
+  line-height: 36px;
+  position: absolute;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.home .heading-bonnie {
+  position: absolute;
+  width: 173px;
+  height: 30px;
+  top: 130px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .icon-13 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 138px;
+  left: 392px;
+}
+
+.home .icon-14 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 138px;
+  left: 411px;
+}
+
+.home .icon-15 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 138px;
+  left: 431px;
+}
+
+.home .icon-16 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 138px;
+  left: 450px;
+}
+
+.home .icon-17 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 138px;
+  left: 469px;
+}
+
+.home .div-avatar-wrap {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  top: 54px;
+  left: 590px;
+}
+
+.home .overlap-group-6 {
+  position: relative;
+  height: 150px;
+}
+
+.home .div-avatar {
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  top: 10px;
+  left: 10px;
+  background-color: #f8f7f0;
+  border-radius: 55px;
+}
+
+.home .after {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/image.svg);
+  background-size: 100% 100%;
+}
+
+.home .before {
+  width: 50px;
+  height: 50px;
+  top: 100px;
+  left: 40px;
+  border-radius: 25px;
+  position: absolute;
+  background-color: #4baf47;
+}
+
+.home .icon-18 {
+  position: absolute;
+  width: 71px;
+  height: 1px;
+  top: 49px;
+  left: 0;
+}
+
+.home .div-swiper-button {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 115px;
+  left: -80px;
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-shadow: 0px 0px 10px #0000001a;
+}
+
+.home .icon-19 {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 0;
+  left: 0;
+}
+
+.home .div-swiper-button-2 {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 190px;
+  left: -80px;
+  background-color: #ffffff;
+  border-radius: 32px;
+  box-shadow: 0px 0px 10px #0000001a;
+}
+
+.home .sections-7 {
+  position: absolute;
+  width: 1200px;
+  height: 734px;
+  top: 5326px;
+  left: 360px;
+}
+
+.home .div-box-quote-wrapper {
+  position: absolute;
+  width: 700px;
+  height: 734px;
+  top: 0;
+  left: 0;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/elements-6.png) 50%
+    50% / cover;
+}
+
+.home .div-box-quote {
+  position: relative;
+  width: 306px;
+  height: 168px;
+  top: 169px;
+  left: 309px;
+  background-color: #eec044;
+  border-radius: 10px 10px 0px 10px;
+}
+
+.home .image-3 {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  top: 36px;
+  left: 36px;
+}
+
+.home .span-hd-afde {
+  position: absolute;
+  width: 130px;
+  height: 108px;
+  top: 30px;
+  left: 140px;
+}
+
+.home .agriculture {
+  position: absolute;
+  width: 125px;
+  height: 108px;
+  top: -1px;
+  left: 0;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.home .after-2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 167px;
+  left: 276px;
+  border: 0px none;
+  border-image: linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(238, 192, 68, 1) 0%
+    )
+    1;
+}
+
+.home .elements-10 {
+  position: absolute;
+  width: 500px;
+  height: 734px;
+  top: 0;
+  left: 700px;
+}
+
+.home .elements-11 {
+  position: absolute;
+  width: 470px;
+  height: 305px;
+  top: 0;
+  left: 15px;
+}
+
+.home .overlap-group-7 {
+  position: absolute;
+  width: 458px;
+  height: 151px;
+  top: -1px;
+  left: 0;
+}
+
+.home .heading-why-choose {
+  position: absolute;
+  width: 458px;
+  height: 115px;
+  top: 36px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+
+.home .text-wrapper-22 {
+  position: absolute;
+  width: 159px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .there-are-many-3 {
+  width: 441px;
+  height: 90px;
+  top: 180px;
+  color: #878680;
+  font-size: 16px;
+  line-height: 30px;
+  position: absolute;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.home .elements-12 {
+  position: absolute;
+  width: 470px;
+  height: 121px;
+  top: 305px;
+  left: 15px;
+}
+
+.home .icon-20 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 8px;
+  left: 0;
+}
+
+.home .heading-quality {
+  position: absolute;
+  width: 246px;
+  height: 34px;
+  top: -1px;
+  left: 65px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.home .there-are-variation {
+  position: absolute;
+  width: 350px;
+  height: 60px;
+  top: 37px;
+  left: 65px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #878680;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.home .elements-13 {
+  position: absolute;
+  width: 470px;
+  height: 121px;
+  top: 426px;
+  left: 15px;
+}
+
+.home .heading-4 {
+  position: absolute;
+  width: 249px;
+  height: 34px;
+  top: -1px;
+  left: 65px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.home .elements-14 {
+  position: absolute;
+  width: 470px;
+  height: 128px;
+  top: 546px;
+  left: 15px;
+}
+
+.home .heading-quality-2 {
+  position: absolute;
+  width: 199px;
+  height: 34px;
+  top: -1px;
+  left: 65px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  white-space: nowrap;
+}
+
+.home .elements-15 {
+  position: absolute;
+  width: 470px;
+  height: 60px;
+  top: 674px;
+  left: 15px;
+}
+
+.home .link-3 {
+  position: relative;
+  width: 196px;
+  height: 60px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .overlap-8 {
+  position: absolute;
+  width: 364px;
+  height: 93px;
+  top: 6172px;
+  left: 778px;
+}
+
+.home .sections-8 {
+  position: absolute;
+  width: 364px;
+  height: 58px;
+  top: 36px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.home .from-the-blog {
+  position: absolute;
+  width: 123px;
+  height: 36px;
+  top: 0;
+  left: 121px;
+  font-family: "Covered By Your Grace", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .section-13 {
+  position: absolute;
+  width: 1170px;
+  height: 514px;
+  top: 6317px;
+  left: 375px;
+  overflow: hidden;
+}
+
+.home .div-master-news-1 {
+  position: absolute;
+  width: 384px;
+  height: 514px;
+  top: 0;
+  left: 0;
+   border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 2px 14px #0000000d;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/div-master-news.png)
+    50% 50% / cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  object-fit: cover;
+}
+
+.home .div-master-news-2 {
+  left: 400px;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/div-master-news-1.png)
+    50% 50% / cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  position: absolute;
+  width: 370px;
+  height: 514px;
+  top: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 2px 14px #0000000d;
+}
+
+.home .div-content-wrap-3 {
+  position: relative;
+  height: 214px;
+  top: 300px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000000d;
+}
+
+.home .span-post-date {
+  position: absolute;
+  width: 135px;
+  height: 40px;
+  top: -19px;
+  left: 118px;
+  background-color: #4baf47;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .text-wrapper-23 {
+  width: 85px;
+  height: 40px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  line-height: 40px;
+  white-space: nowrap;
+  position: absolute;
+  top: -2px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  letter-spacing: 0;
+}
+
+.home .div-post-meta {
+  position: absolute;
+  width: 233px;
+  height: 20px;
+  top: 37px;
+  left: 69px;
+}
+
+.home .span-post-by-author {
+  position: absolute;
+  width: 101px;
+  height: 20px;
+  top: 0;
+  left: 0;
+}
+
+.home .link-kevin-martin {
+  position: absolute;
+  width: 81px;
+  height: 20px;
+  top: -2px;
+  left: 20px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #878680;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .icon-21 {
+  position: absolute;
+  width: 13px;
+  height: 20px;
+  top: 1px;
+  left: 1px;
+}
+
+.home .span-post-comment {
+  position: absolute;
+  width: 104px;
+  height: 20px;
+  top: 0;
+  left: 115px;
+}
+
+.home .link-comments {
+  position: absolute;
+  width: 84px;
+  height: 20px;
+  top: -2px;
+  left: 20px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #878680;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.home .icon-22 {
+  position: absolute;
+  width: 15px;
+  height: 20px;
+  top: 1px;
+  left: 1px;
+}
+
+.home .heading-5 {
+  position: absolute;
+  width: 278px;
+  height: 108px;
+  top: 65px;
+  left: 46px;
+}
+
+.home .link-the-future-of {
+  position: absolute;
+  width: 250px;
+  height: 108px;
+  top: -1px;
+  left: 14px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.home .div-master-news-3 {
+  left: 800px;
+  background: url(https://c.animaapp.com/mbz03c7wQVxkiv/img/div-master-news-2.png)
+    50% 50% / cover,
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  position: absolute;
+  width: 370px;
+  height: 514px;
+  top: 0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 2px 14px #0000000d;
+}
+
+.home .link-agronomy-and {
+  position: absolute;
+  width: 213px;
+  height: 108px;
+  top: -1px;
+  left: 32px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 800;
+  color: #1f1e17;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.home .section-14 {
+  position: absolute;
+  width: 1905px;
+  height: 234px;
+  top: 6951px;
+  left: 8px;
+  background-color: #f8f7f0;
+  overflow: hidden;
+}
+
+.home .image-4 {
+  position: absolute;
+  width: 300px;
+  height: 197px;
+  top: -20px;
+  left: 1635px;
+}
+
+.home .image-5 {
+  position: absolute;
+  width: 300px;
+  height: 67px;
+  top: -20px;
+  left: -30px;
+}
+
+.home .section-15 {
+  position: absolute;
+  width: 1230px;
+  height: 74px;
+  top: 80px;
+  left: 338px;
+}
+
+.home .image-6 {
+  position: absolute;
+  width: 190px;
+  height: 74px;
+  top: 0;
+  left: 0;
+  opacity: 0.4;
+}
+
+.home .image-7 {
+  position: absolute;
+  width: 190px;
+  height: 74px;
+  top: 0;
+  left: 260px;
+  opacity: 0.4;
+}
+
+.home .image-8 {
+  position: absolute;
+  width: 190px;
+  height: 74px;
+  top: 0;
+  left: 520px;
+  opacity: 0.4;
+}
+
+.home .image-9 {
+  position: absolute;
+  width: 190px;
+  height: 74px;
+  top: 0;
+  left: 780px;
+  opacity: 0.4;
+}
+
+.home .image-10 {
+  position: absolute;
+  width: 190px;
+  height: 74px;
+  top: 0;
+  left: 1040px;
+  opacity: 0.4;
+}
+
+.home .group-3 {
+  position: absolute;
+  width: 1920px;
+  height: 581px;
+  top: 7186px;
+  left: 0;
+}
+
+.home .footer {
+  position: absolute;
+  width: 1920px;
+  height: 511px;
+  top: 0;
+  left: 0;
+  background-color: #24231d;
+}
+
+.home .overlap-9 {
+  position: absolute;
+  width: 280px;
+  height: 222px;
+  top: 80px;
+  left: 365px;
+}
+
+.home .link-logo-image-wrapper {
+  position: absolute;
+  width: 270px;
+  height: 72px;
+  top: 40px;
+  left: 10px;
+}
+
+.home .link-logo-image {
+  width: 170px;
+  height: 52px;
+}
+
+.home .there-are-many-wrapper {
+  position: absolute;
+  width: 270px;
+  height: 110px;
+  top: 112px;
+  left: 10px;
+}
+
+.home .there-are-many-4 {
+  width: 269px;
+  height: 90px;
+  top: -2px;
+  color: #a5a49a;
+  font-size: 15px;
+  line-height: 30px;
+  position: absolute;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.home .div-master-social {
+  position: absolute;
+  width: 270px;
+  height: 40px;
+  top: 302px;
+  left: 374px;
+}
+
+.home .link-icon-5 {
+  top: 0;
+  left: 0;
+  background-color: #1f1e17;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .link-icon-6 {
+  top: 0;
+  left: 50px;
+  background-color: #1f1e17;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .link-icon-7 {
+  top: 0;
+  left: 100px;
+  background-color: #1f1e17;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .link-icon-8 {
+  top: 0;
+  left: 150px;
+  background-color: #1f1e17;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.home .div-elementor-column-2 {
+  position: absolute;
+  width: 200px;
+  height: 273px;
+  top: 120px;
+  left: 660px;
+}
+
+.home .heading-6 {
+  position: absolute;
+  width: 170px;
+  height: 36px;
+  top: 0;
+  left: 15px;
+}
+
+.home .text-wrapper-24 {
+  position: absolute;
+  width: 73px;
+  height: 36px;
+  top: -2px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .span-elementor-wrapper {
+  position: absolute;
+  width: 170px;
+  height: 32px;
+  top: 36px;
+  left: 15px;
+}
+
+.home .span-elementor {
+  position: relative;
+  width: 45px;
+  height: 4px;
+  top: 9px;
+  border-radius: 2px;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-color: #4baf47;
+}
+
+.home .after-3 {
+  position: relative;
+  width: 4px;
+  height: 4px;
+  left: 51px;
+  background-color: #4baf47;
+  border-radius: 2px;
+}
+
+.home .div-master-list {
+  position: absolute;
+  width: 170px;
+  height: 205px;
+  top: 68px;
+  left: 15px;
+}
+
+.home .icon-23 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 9px;
+  left: 0;
+}
+
+.home .link-about {
+  position: absolute;
+  width: 43px;
+  height: 30px;
+  top: -2px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .icon-24 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 44px;
+  left: 0;
+}
+
+.home .link-services {
+  position: absolute;
+  width: 61px;
+  height: 30px;
+  top: 34px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .icon-25 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 79px;
+  left: 0;
+}
+
+.home .link-our-projects {
+  position: absolute;
+  width: 88px;
+  height: 30px;
+  top: 68px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .icon-26 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 114px;
+  left: 0;
+}
+
+.home .link-meet-the {
+  position: absolute;
+  width: 123px;
+  height: 30px;
+  top: 104px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .icon-27 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 149px;
+  left: 0;
+}
+
+.home .link-latest-news {
+  position: absolute;
+  width: 87px;
+  height: 30px;
+  top: 138px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .icon-28 {
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 184px;
+  left: 0;
+}
+
+.home .link-contact {
+  position: absolute;
+  width: 59px;
+  height: 30px;
+  top: 174px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .div-elementor-column-3 {
+  position: absolute;
+  width: 400px;
+  height: 273px;
+  top: 120px;
+  left: 860px;
+}
+
+.home .heading-7 {
+  position: absolute;
+  width: 320px;
+  height: 46px;
+  top: 3px;
+  left: 15px;
+}
+
+.home .text-wrapper-25 {
+  position: absolute;
+  width: 53px;
+  height: 30px;
+  top: -2px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .before-2 {
+  width: 4px;
+  height: 4px;
+  top: 42px;
+  left: 50px;
+  border-radius: 2px;
+  position: absolute;
+  background-color: #4baf47;
+}
+
+.home .after-4 {
+  position: absolute;
+  width: 45px;
+  height: 4px;
+  top: 42px;
+  left: 0;
+  background-color: #4baf47;
+  border-radius: 2px;
+}
+
+.home .list {
+  position: absolute;
+  width: 320px;
+  height: 190px;
+  top: 75px;
+  left: 15px;
+}
+
+.home .item {
+  top: -8px;
+  position: absolute;
+  width: 220px;
+  height: 85px;
+  left: 100px;
+}
+
+.home .heading-link-4 {
+  width: 196px;
+  height: 52px;
+  top: 2px;
+  left: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.home .text-wrapper-26 {
+  position: absolute;
+  width: 81px;
+  height: 28px;
+  top: 55px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 400;
+  color: #eec044;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 28.1px;
+  white-space: nowrap;
+}
+
+.home .item-link-bringing {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+}
+
+.home .item-2 {
+  top: 102px;
+  position: absolute;
+  width: 220px;
+  height: 85px;
+  left: 100px;
+}
+
+.home .heading-link-the {
+  width: 201px;
+  height: 52px;
+  top: 2px;
+  left: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.home .item-link-the-future {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 110px;
+  left: 0;
+  border-radius: 10px;
+}
+
+.home .div-elementor-column-4 {
+  position: absolute;
+  width: 300px;
+  height: 273px;
+  top: 120px;
+  left: 1259px;
+}
+
+.home .heading-8 {
+  position: absolute;
+  width: 270px;
+  height: 36px;
+  top: 0;
+  left: 15px;
+}
+
+.home .text-wrapper-27 {
+  position: absolute;
+  width: 80px;
+  height: 36px;
+  top: -2px;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.home .div-elementor-2 {
+  position: absolute;
+  width: 270px;
+  height: 32px;
+  top: 36px;
+  left: 15px;
+}
+
+.home .div-elementor-3 {
+  position: absolute;
+  width: 270px;
+  height: 36px;
+  top: 68px;
+  left: 15px;
+}
+
+.home .icon-29 {
+  position: absolute;
+  width: 14px;
+  height: 18px;
+  top: 3px;
+  left: 2px;
+}
+
+.home .text-wrapper-28 {
+  width: 98px;
+  height: 26px;
+  top: -1px;
+  left: 25px;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  line-height: 26px;
+  position: absolute;
+  font-family: "Manrope", Helvetica;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.home .div-elementor-4 {
+  position: absolute;
+  width: 270px;
+  height: 36px;
+  top: 104px;
+  left: 15px;
+}
+
+.home .icon-30 {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 7px;
+  left: 3px;
+}
+
+.home .text-wrapper-29 {
+  position: absolute;
+  width: 178px;
+  height: 26px;
+  top: -1px;
+  left: 26px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.home .div-elementor-5 {
+  position: absolute;
+  width: 270px;
+  height: 77px;
+  top: 140px;
+  left: 15px;
+}
+
+.home .icon-31 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 6px;
+  left: 0;
+}
+
+.home .element-broklyn-golden {
+  width: 200px;
+  height: 52px;
+  font-weight: 500;
+  color: #a5a49a;
+  font-size: 15px;
+  line-height: 26px;
+  position: absolute;
+  top: -2px;
+  left: 25px;
+  font-family: "Manrope", Helvetica;
+  letter-spacing: 0;
+}
+
+.home .form {
+  position: absolute;
+  width: 270px;
+  height: 50px;
+  top: 217px;
+  left: 15px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home .overlap-group-8 {
+  position: relative;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.home .input {
+  position: absolute;
+  width: 270px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #f8f7f0;
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0) 100%
+    ),
+    linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 1) 100%
+    );
+}
+
+.home .div-placeholder {
+  position: relative;
+  width: 178px;
+  height: 17px;
+  top: 16px;
+  left: 21px;
+  border: none;
+  background: none;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #878680;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding: 0;
+  padding-left: 0;
+}
+
+.home .button-submit {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 220px;
+  background-color: #4baf47;
+  border-radius: 0px 10px 10px 0px;
+}
+
+.home .icon-32 {
+  position: absolute;
+  width: 12px;
+  height: 13px;
+  top: 18px;
+  left: 18px;
+}
+
+.home .container-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 70px;
+  top: 511px;
+  left: 0;
+  background-color: #1f1e17;
+}
+
+.home .container-4 {
+  position: relative;
+  width: 1200px;
+  height: 70px;
+  left: 360px;
+}
+
+.home .column-4 {
+  position: absolute;
+  width: 600px;
+  height: 70px;
+  top: 0;
+  left: 0;
+}
+
+.home .overlap-group-9 {
+  position: relative;
+  width: 306px;
+  height: 30px;
+  top: 19px;
+  left: 15px;
+}
+
+.home .text-wrapper-30 {
+  position: absolute;
+  width: 159px;
+  height: 30px;
+  top: 0;
+  left: 0;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #a5a49a;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .footer-2 {
+  position: absolute;
+  width: 148px;
+  height: 30px;
+  top: 0;
+  left: 158px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #a5a49a;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.home .column-5 {
+  position: absolute;
+  width: 600px;
+  height: 70px;
+  top: 0;
+  left: 600px;
+}
+
+.home .link-terms-of-use-wrapper {
+  position: absolute;
+  width: 116px;
+  height: 14px;
+  top: 28px;
+  left: 347px;
+}
+
+.home .link-terms-of-use {
+  position: absolute;
+  width: 86px;
+  height: 14px;
+  top: -1px;
+  left: 30px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #a5a49a;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.home .div-elementor-6 {
+  position: absolute;
+  width: 122px;
+  height: 14px;
+  top: 28px;
+  left: 463px;
+}
+
+.home .link-privacy-policy-wrapper {
+  position: relative;
+  width: 107px;
+  height: 14px;
+  left: 15px;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-color: #a5a49a;
+}
+
+.home .link-privacy-policy {
+  position: absolute;
+  width: 91px;
+  height: 14px;
+  top: -1px;
+  left: 16px;
+  font-family: "Manrope", Helvetica;
+  font-weight: 600;
+  color: #a5a49a;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.home .section-16 {
+  position: absolute;
+  width: 635px;
+  height: 4px;
+  top: 0;
+  left: 8px;
+  background-color: #4baf47;
+}
+
+.home .section-17 {
+  position: absolute;
+  width: 635px;
+  height: 4px;
+  top: 0;
+  left: 642px;
+  background-color: #c5ce38;
+}
+
+.home .section-18 {
+  position: absolute;
+  width: 635px;
+  height: 4px;
+  top: 0;
+  left: 1277px;
+  background-color: #eec044;
+}
+.navbar {
+  background-color: #f9f8f3;
+  padding: 15px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.navbar-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+}
+
+.nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 35px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-menu li a {
+  text-decoration: none;
+  color: #888;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.nav-menu li a:hover,
+.nav-menu li a.active {
+  color: #000;
+  font-weight: bold;
+}
+
+.right-icons {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.right-icons img {
+  height: 20px;
+  cursor: pointer;
+}
+
+.cart-count {
+  position: relative;
+}
+
+.cart-count::after {
+  content: "0";
+  position: absolute;
+  top: -8px;
+  right: -10px;
+  background: green;
+  color: white;
+  font-size: 10px;
+  padding: 2px 5px;
+  border-radius: 50%;
+}
+.menu-bar {
+border-radius: 12%;
+
+  position: absolute;
+  top: 120px; /* adjust based on your image layout */
+  left: 25%;
+  width: 100%;
+  /* background:#f8f7f1; */
+  padding: 10px 0;
+  text-align: center;
+  /* box-shadow: 0 2px 5px rgba(0,0,0,0.1); */
+}
+
+.menu-bar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+  gap: 40px;
+}
+
+.menu-bar li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: "Manrope", Helvetica;
+}
+
+.menu-bar li a:hover {
+  color: green;
+}
